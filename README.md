@@ -1,4 +1,4 @@
-# poetry-dummy-greeting
+# [poetry-dummy-greeting](https://paulang1807.github.io/poetry-dummy-greeting/)
 Sample for testing python [poetry](https://python-poetry.org)
 
 - Create a new project:    `poetry new <project-name>`
