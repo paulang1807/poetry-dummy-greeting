@@ -1,0 +1,8 @@
+site_name: Poetry Package Instructions
+site_url: https://paulang1807.github.io/poetry-dummy-greeting/
+
+nav:
+  - Home: index.md
+
+theme: 
+  name: material
